@@ -2,7 +2,7 @@
 layout: slide
 title: "Welcome to our slide deck!"
 ---
-$${\color{red}There is no charge for awesomeness.  Or attractiveness!}$$
+$${\color{red}There \space is \space no \space charge \space for \space awesomeness.  \space \space Or \space attractiveness!}$$
 
 ![dojocat](https://octodex.github.com/images/dojocat.jpg)
 {: .center}
